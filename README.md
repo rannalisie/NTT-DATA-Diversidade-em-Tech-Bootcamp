@@ -1,2 +1,3 @@
 # NTT-DATA-Diversidade-em-Tech-Bootcamp
-NTT DATA Diversidade em Tech
+
+Acompanhando o progresso no Bootcamp NTT DATA Diversidade em Tech
